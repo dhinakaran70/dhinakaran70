@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new freelancer
 - 📫 How to reach me ? here !! dhinaprogrammer7@gmail.com
 - 😄 Pronouns: man😂
-- ⚡ Fun fact: i'll my dad jokes
+  
 
 <!---
 dhinakaran70/dhinakaran70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
