@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhinakaran D V</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
-- 🌱 I’m currently learning **MongoDb,Docker.**
+- 🌱 I’m currently learning **SpringBoot,DSA.**
 
 - 📫 How to reach me **dhinakarandv7@gmail.com**
 
